@@ -1,0 +1,19 @@
+.align-contnet p {text-align: justify;}
+.image-left{float: left; padding: 5px 15px 5px 0;}
+h5{color: #d10832;font-family: "OpenSans-Bold";font-size: 25px;line-height: 28px;margin: 0 0 15px;}
+h6{color: #d10832;font-family: "OpenSans-Bold";font-size: 18px;line-height: 20px;margin: 0 0 15px;}
+.form-bottom{margin-bottom: 10px;}
+.form-bottom input{width:270px;padding:5px;}
+.form-bottom input[type="submit"]{width:150px;padding:5px;}
+.wpcf7 textarea  {height: 100px;width: 276px;}
+.wpcf7 select  {width: 270px;}
+.label-left{float:left;text-align: left;padding-left: 16px;}
+@media screen and (max-width: 480px) {
+  .form-bottom input{width:230px;padding:5px;float: left;} 
+}
+.parent-sidebar-menu li.current_page_item > a {
+    color: #fdac1c !important;
+}
+a:hover, a:focus, a:active{color:#fbcd7b;}
+.parent-sidebar-menu{border-top: 1px solid #d4d4d4;padding-top:10px;}
+.lead-in{color:#444444;}
